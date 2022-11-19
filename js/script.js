@@ -34,7 +34,6 @@ loadMoreBtn.onclick = () =>{
    }
 }
 
-
 var swiper = new Swiper(".reviews-slider", {
    grabCursor:true,
    loop:true,
